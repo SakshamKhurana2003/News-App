@@ -43,8 +43,3 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
  
     API_KEY="<YOUR_API_KEY>"
  * Rebuild app
-### 📝 License 
-
-Copyright (c) 2022 Raj Manjrekar
-
-This project is [MIT](https://github.com/Raj-m01/News-App/blob/master/License) licensed.
